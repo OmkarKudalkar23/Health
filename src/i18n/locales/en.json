@@ -1,0 +1,436 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK",
+    "retry": "Retry",
+    "refresh": "Refresh",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "export": "Export",
+    "import": "Import",
+    "download": "Download",
+    "upload": "Upload",
+    "view": "View",
+    "details": "Details",
+    "settings": "Settings",
+    "profile": "Profile",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register",
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "notifications": "Notifications",
+    "alerts": "Alerts",
+    "help": "Help",
+    "support": "Support",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "language": "Language",
+    "theme": "Theme",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode"
+  },
+  "app": {
+    "name": "HealthCare+",
+    "tagline": "Your Health, Your Family, Our Priority",
+    "description": "Transform your healthcare journey with AI-powered medication management, family care coordination, and comprehensive health monitoring.",
+    "loading": "Preparing your health platform...",
+    "demoMode": "Demo Mode",
+    "roleSwitcher": "Role Switcher"
+  },
+  "navigation": {
+    "home": "Home",
+    "medications": "Medications",
+    "finance": "Finance",
+    "reports": "Reports",
+    "patients": "Patients",
+    "appointments": "Appointments",
+    "alerts": "Alerts",
+    "settings": "Settings",
+    "features": "Features",
+    "testimonials": "Testimonials",
+    "about": "About"
+  },
+  "landing": {
+    "hero": {
+      "badge": "🚀 Revolutionary Healthcare Platform",
+      "title": "Your Health, Your Family, Our Priority",
+      "subtitle": "Transform your healthcare journey with AI-powered medication management, family care coordination, and comprehensive health monitoring.",
+      "startTrial": "Start Free Trial",
+      "watchDemo": "Watch Demo",
+      "stats": {
+        "users": "Active Users",
+        "adherence": "Adherence Rate",
+        "savings": "Savings Generated"
+      }
+    },
+    "features": {
+      "badge": "✨ Comprehensive Features",
+      "title": "Everything You Need for Better Health",
+      "subtitle": "Our platform combines cutting-edge technology with compassionate care to deliver a seamless healthcare experience.",
+      "smartHealth": {
+        "title": "Smart Health Monitoring",
+        "description": "Track vitals, medication adherence, and health trends with AI-powered insights."
+      },
+      "medicationManagement": {
+        "title": "Medication Management",
+        "description": "Never miss a dose with smart reminders, pill verification, and refill alerts."
+      },
+      "familyCare": {
+        "title": "Family Care Network",
+        "description": "Connect with family members and caregivers for collaborative health management."
+      },
+      "doctorIntegration": {
+        "title": "Doctor Integration",
+        "description": "Seamless communication with healthcare providers and appointment management."
+      },
+      "healthAnalytics": {
+        "title": "Health Analytics",
+        "description": "Comprehensive health reports and predictive risk assessment."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Round-the-clock health assistance and emergency response."
+      }
+    },
+    "testimonials": {
+      "badge": "💬 User Testimonials",
+      "title": "What Our Users Say",
+      "subtitle": "Real stories from real people whose lives have been transformed by our platform.",
+      "items": {
+        "rajesh": {
+          "name": "Rajesh Sharma",
+          "role": "Patient",
+          "content": "This app has completely transformed how I manage my diabetes. The medication reminders and health tracking keep me on track."
+        },
+        "priya": {
+          "name": "Dr. Priya Patel",
+          "role": "Cardiologist",
+          "content": "As a doctor, I love how this platform helps me monitor my patients remotely and provides comprehensive health data."
+        },
+        "sunita": {
+          "name": "Sunita Devi",
+          "role": "Family Caregiver",
+          "content": "Managing my mother's medications is so much easier now. The family dashboard gives me peace of mind."
+        },
+        "amit": {
+          "name": "Amit Kumar",
+          "role": "Patient",
+          "content": "The government scheme assistance helped me save thousands on my medical bills. Truly life-changing!"
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Your Healthcare Journey?",
+      "subtitle": "Join thousands of users who have already taken control of their health with our comprehensive platform.",
+      "getStarted": "Get Started Now",
+      "scheduleDemo": "Schedule Demo",
+      "features": "✓ Free 30-day trial &nbsp;&nbsp; ✓ No credit card required &nbsp;&nbsp; ✓ Cancel anytime"
+    },
+    "footer": {
+      "description": "Empowering healthier lives through innovative technology and compassionate care.",
+      "product": "Product",
+      "support": "Support",
+      "company": "Company",
+      "copyright": "© 2024 HealthCare+. All rights reserved."
+    }
+  },
+  "dashboard": {
+    "greeting": {
+      "morning": "Good Morning",
+      "afternoon": "Good Afternoon",
+      "evening": "Good Evening"
+    },
+    "overview": "Here's your health overview for today",
+    "stats": {
+      "adherenceRate": "Adherence Rate",
+      "bloodPressure": "Blood Pressure",
+      "monthlySpend": "Monthly Spend",
+      "riskScore": "Risk Score",
+      "normal": "Normal",
+      "saved": "saved"
+    },
+    "nextMedication": {
+      "title": "Next Medication",
+      "takeNow": "Take Now",
+      "inHours": "in {{hours}} hours"
+    },
+    "tabs": {
+      "overview": "Overview",
+      "calendar": "Calendar",
+      "insights": "AI Insights",
+      "expenses": "Expenses"
+    },
+    "vitals": {
+      "title": "Vitals Trend",
+      "addReading": "Add Reading",
+      "bloodPressure": "Blood Pressure (Systolic)",
+      "heartRate": "Heart Rate",
+      "bloodGlucose": "Blood Glucose"
+    },
+    "appointments": {
+      "title": "Upcoming Appointments",
+      "bookAppointment": "Book Appointment",
+      "followUp": "Follow-up",
+      "consultation": "Consultation"
+    },
+    "expenses": {
+      "title": "Monthly Health Expenses",
+      "medications": "Medications",
+      "consultations": "Consultations",
+      "labTests": "Lab Tests",
+      "others": "Others",
+      "total": "Total"
+    },
+    "medications": {
+      "title": "Medication Status",
+      "viewAll": "View All Medications"
+    }
+  },
+  "medications": {
+    "title": "Medication Management",
+    "addMedication": "Add Medication",
+    "editMedication": "Edit Medication",
+    "deleteMedication": "Delete Medication",
+    "medicationName": "Medication Name",
+    "dosage": "Dosage",
+    "frequency": "Frequency",
+    "nextDose": "Next Dose",
+    "adherence": "Adherence",
+    "pillCount": "Pill Count",
+    "notes": "Notes",
+    "takeMedication": "Take Medication",
+    "skipDose": "Skip Dose",
+    "refillReminder": "Refill Reminder",
+    "sideEffects": "Side Effects",
+    "interactions": "Interactions",
+    "history": "History",
+    "schedule": "Schedule",
+    "reminders": "Reminders"
+  },
+  "appointments": {
+    "title": "Appointments",
+    "bookAppointment": "Book Appointment",
+    "upcomingAppointments": "Upcoming Appointments",
+    "pastAppointments": "Past Appointments",
+    "doctorName": "Doctor Name",
+    "specialty": "Specialty",
+    "date": "Date",
+    "time": "Time",
+    "type": "Type",
+    "status": "Status",
+    "notes": "Notes",
+    "cancelAppointment": "Cancel Appointment",
+    "rescheduleAppointment": "Reschedule Appointment",
+    "confirmAppointment": "Confirm Appointment"
+  },
+  "vitals": {
+    "title": "Vital Signs",
+    "addReading": "Add Reading",
+    "bloodPressure": "Blood Pressure",
+    "heartRate": "Heart Rate",
+    "bloodSugar": "Blood Sugar",
+    "weight": "Weight",
+    "temperature": "Temperature",
+    "oxygenSaturation": "Oxygen Saturation",
+    "systolic": "Systolic",
+    "diastolic": "Diastolic",
+    "bpm": "BPM",
+    "mg/dL": "mg/dL",
+    "kg": "kg",
+    "lbs": "lbs",
+    "°C": "°C",
+    "°F": "°F",
+    "%": "%",
+    "normal": "Normal",
+    "high": "High",
+    "low": "Low",
+    "critical": "Critical"
+  },
+  "finance": {
+    "title": "Finance & Schemes",
+    "expenses": "Expenses",
+    "schemes": "Schemes",
+    "savings": "Savings",
+    "bills": "Bills",
+    "insurance": "Insurance",
+    "monthlySpend": "Monthly Spend",
+    "totalSavings": "Total Savings",
+    "eligibleSchemes": "Eligible Schemes",
+    "appliedSchemes": "Applied Schemes",
+    "addExpense": "Add Expense",
+    "addBill": "Add Bill",
+    "viewReports": "View Reports",
+    "exportData": "Export Data"
+  },
+  "reports": {
+    "title": "Reports & Bills",
+    "healthReport": "Health Report",
+    "medicationReport": "Medication Report",
+    "expenseReport": "Expense Report",
+    "appointmentReport": "Appointment Report",
+    "generateReport": "Generate Report",
+    "exportPDF": "Export PDF",
+    "exportExcel": "Export Excel",
+    "dateRange": "Date Range",
+    "lastMonth": "Last Month",
+    "last3Months": "Last 3 Months",
+    "last6Months": "Last 6 Months",
+    "lastYear": "Last Year",
+    "customRange": "Custom Range"
+  },
+  "settings": {
+    "title": "Settings",
+    "profile": "Profile",
+    "account": "Account",
+    "privacy": "Privacy",
+    "notifications": "Notifications",
+    "language": "Language",
+    "theme": "Theme",
+    "backup": "Backup",
+    "security": "Security",
+    "about": "About",
+    "help": "Help",
+    "logout": "Logout",
+    "deleteAccount": "Delete Account",
+    "changePassword": "Change Password",
+    "twoFactorAuth": "Two-Factor Authentication",
+    "dataExport": "Data Export",
+    "dataImport": "Data Import"
+  },
+  "chatbot": {
+    "title": "AI Health Assistant",
+    "placeholder": "Ask me anything about your health...",
+    "suggestions": {
+      "schemes": "Tell me about government health schemes",
+      "medication": "Help with medication schedules",
+      "reports": "Explain my lab reports",
+      "emergency": "Emergency contacts"
+    },
+    "responses": {
+      "schemes": "Here are the government health schemes you may be eligible for:\n\n🏥 **Ayushman Bharat (PM-JAY)**\n- Coverage: ₹5 lakh per family per year\n- Eligibility: Based on SECC-2011 database\n\n💊 **Jan Aushadhi**\n- Generic medicines at 50-80% lower cost\n- 9000+ stores across India\n\n👵 **Senior Citizen Health Insurance**\n- Special rates for 60+ age group\n- Pre-existing condition coverage\n\nWould you like me to help you apply for any of these schemes?",
+      "medication": "I can help you optimize your medication schedule! 💊\n\nBased on your current medications:\n- Metformin: Best taken with meals\n- Lisinopril: Morning is optimal\n- Vitamin D3: With fatty food for better absorption\n\n⚡ **Smart Tips:**\n- Set reminders 30 minutes before meals\n- Use pill organizer for weekly planning\n- Track side effects in the app\n\nWould you like me to set up personalized reminders?",
+      "reports": "I can help you understand your lab reports! 📊\n\n**Common Lab Values:**\n- HbA1c: <7% (Good diabetes control)\n- Cholesterol: <200 mg/dL\n- Blood Pressure: <120/80 mmHg\n- BMI: 18.5-24.9 (Normal)\n\n**Red Flags to Watch:**\n- High blood sugar levels\n- Elevated cholesterol\n- Abnormal kidney function\n\nWould you like me to analyze your specific results?",
+      "emergency": "Here are important emergency contacts! 🚨\n\n**Medical Emergencies:**\n- National Emergency: 108\n- Police: 100\n- Fire: 101\n- Ambulance: 102\n\n**Health Helplines:**\n- COVID-19: 1075\n- Mental Health: 1800-599-0019\n- Women Helpline: 181\n\n**Your Emergency Contacts:**\n- Family Doctor: [Add in settings]\n- Emergency Contact: [Add in settings]\n\nStay safe and don't hesitate to call for help!"
+    }
+  },
+  "voiceAssistant": {
+    "title": "Voice Assistant",
+    "listening": "Listening...",
+    "speakNow": "Speak now",
+    "processing": "Processing...",
+    "quickActions": "Quick Actions:",
+    "nextMedication": "Next Medication",
+    "bookDoctor": "Book Doctor",
+    "govScheme": "Gov Scheme",
+    "assistant": "Assistant:",
+    "voice": "Voice"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "markAllRead": "Mark All Read",
+    "clearAll": "Clear All",
+    "medicationDue": "Medication Due",
+    "appointmentReminder": "Appointment Reminder",
+    "healthAlert": "Health Alert",
+    "systemUpdate": "System Update",
+    "newMessage": "New Message",
+    "noNotifications": "No notifications yet"
+  },
+  "modals": {
+    "pillVerification": {
+      "title": "Pill Verification",
+      "description": "Take a photo of your medication to verify it matches your prescription.",
+      "takePhoto": "Take Photo",
+      "uploadPhoto": "Upload Photo",
+      "verify": "Verify",
+      "skip": "Skip",
+      "success": "Medication verified successfully!",
+      "error": "Could not verify medication. Please try again."
+    },
+    "appointmentBooking": {
+      "title": "Book Appointment",
+      "selectDoctor": "Select Doctor",
+      "selectDate": "Select Date",
+      "selectTime": "Select Time",
+      "reason": "Reason for Visit",
+      "notes": "Additional Notes",
+      "book": "Book Appointment",
+      "success": "Appointment booked successfully!"
+    },
+    "vitalReading": {
+      "title": "Add Vital Reading",
+      "selectVital": "Select Vital Sign",
+      "enterValue": "Enter Value",
+      "addReading": "Add Reading",
+      "success": "Vital reading added successfully!"
+    },
+    "pdfExport": {
+      "title": "Export Health Report",
+      "selectSections": "Select sections to include:",
+      "personalInfo": "Personal Information",
+      "healthVitals": "Health Vitals",
+      "medicationHistory": "Medication History",
+      "financialReport": "Financial Report",
+      "appointmentHistory": "Appointment History",
+      "exportOptions": "Export Options",
+      "dateRange": "Date Range:",
+      "format": "Format:",
+      "privacyNotice": "This report contains your personal health information. Please store securely.",
+      "generatePDF": "Generate PDF",
+      "generating": "Generating PDF...",
+      "success": "PDF generated successfully!"
+    }
+  },
+  "roles": {
+    "patient": "Patient",
+    "family": "Family Member",
+    "doctor": "Doctor",
+    "asha": "ASHA Worker"
+  },
+  "time": {
+    "morning": "Morning",
+    "afternoon": "Afternoon",
+    "evening": "Evening",
+    "night": "Night",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "tomorrow": "Tomorrow",
+    "thisWeek": "This Week",
+    "thisMonth": "This Month",
+    "thisYear": "This Year"
+  },
+  "units": {
+    "mg": "mg",
+    "ml": "ml",
+    "tablet": "tablet",
+    "capsule": "capsule",
+    "drops": "drops",
+    "injection": "injection",
+    "daily": "daily",
+    "twiceDaily": "twice daily",
+    "threeTimesDaily": "three times daily",
+    "weekly": "weekly",
+    "monthly": "monthly",
+    "asNeeded": "as needed"
+  }
+}
+
